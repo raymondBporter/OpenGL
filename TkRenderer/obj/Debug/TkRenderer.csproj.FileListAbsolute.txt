@@ -1,0 +1,9 @@
+C:\Users\Raymond\source\repos\TkRenderer\TkRenderer\obj\Debug\TkRenderer.csprojAssemblyReference.cache
+C:\Users\Raymond\source\repos\TkRenderer\TkRenderer\bin\Debug\TkRenderer.dll
+C:\Users\Raymond\source\repos\TkRenderer\TkRenderer\bin\Debug\TkRenderer.pdb
+C:\Users\Raymond\source\repos\TkRenderer\TkRenderer\bin\Debug\OpenTK.dll
+C:\Users\Raymond\source\repos\TkRenderer\TkRenderer\bin\Debug\OpenTK.pdb
+C:\Users\Raymond\source\repos\TkRenderer\TkRenderer\bin\Debug\OpenTK.xml
+C:\Users\Raymond\source\repos\TkRenderer\TkRenderer\obj\Debug\TkRenderer.csproj.CopyComplete
+C:\Users\Raymond\source\repos\TkRenderer\TkRenderer\obj\Debug\TkRenderer.dll
+C:\Users\Raymond\source\repos\TkRenderer\TkRenderer\obj\Debug\TkRenderer.pdb
